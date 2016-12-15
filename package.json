@@ -20,7 +20,9 @@
   },
   "homepage": "https://github.com/irina060981/infograd#readme",
   "devDependencies": {
+    "grunt-contrib-concat": "^1.0.1",
     "grunt-contrib-less": "^1.4.0",
+    "grunt-contrib-uglify": "^2.0.0",
     "less-plugin-autoprefix": "^1.5.1",
     "less-plugin-clean-css": "^1.5.1"
   }
