@@ -1,0 +1,22 @@
+{
+  "name": "coffee",
+  "version": "1.0.0",
+  "description": "infograd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/irina060981/infograd.git"
+  },
+  "keywords": [
+    "coffee"
+  ],
+  "author": "Irina Sklyarova, Sergey Goncharov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/irina060981/infograd/issues"
+  },
+  "homepage": "https://github.com/irina060981/infograd#readme"
+}
